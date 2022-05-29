@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Caeci
 - 👀 I’m interested in figuring out what programming is all about lol
-- 🌱 I’m currently studying engineering/applied mathematics (mathematical modelling and computation)
-
+- 🌱 I’m currently studying engineering/applied mathematics
 <!---
 Caeci/Caeci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
