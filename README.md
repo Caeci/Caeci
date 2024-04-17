@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Caeci
-- 👀 I’m interested in figuring out what programming is all about lol
+- 👀 Machine learning and ai
 - 🌱 I’m currently studying engineering/applied mathematics
 <!---
 Caeci/Caeci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
